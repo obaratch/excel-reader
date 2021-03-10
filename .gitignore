@@ -1,0 +1,8 @@
+.DS_STORE
+.vscode
+*.code-workspace
+
+node_modules/
+dist/
+
+!.gitkeep
